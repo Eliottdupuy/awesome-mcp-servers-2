@@ -4,7 +4,7 @@
 
 ## What It Does
 
-Kleap is an MCP server for creating, editing, and publishing websites. The same server is available as a local stdio process via npm (`kleap-cli`) and as a hosted endpoint at `https://kleap.co/api/mcp` (OAuth, 26 tools).
+Kleap is an MCP server for creating, editing, and publishing websites. The same server is available as a local stdio process via npm (`kleap-cli`) and as a hosted endpoint at `https://kleap.co/api/mcp` (OAuth, 34 tools).
 
 ## Quick Setup
 
